@@ -190,8 +190,8 @@ if __name__ == '__main__':
 
 	filter_ext = (".txt", ".js", ".md", ".json", ".scss")
 
-	path_open =     "/Users/panos/GitBox/gatsby-playground/gatsby-garb-FINAL-CODE"
-	path_save_pdf = "/Users/panos/GitBox/gatsby-playground/gatsby-garb-FINAL-CODE-pdfs"
+	path_open =     "/folder/input"
+	path_save_pdf = "/folde/output"
 
 	main(path_open, path_save_pdf)
 
